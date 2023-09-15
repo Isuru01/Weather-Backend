@@ -1,6 +1,6 @@
 # Weather Backend
 
-This is the backend repository for the Weather Backend project. It provides API endpoints to manage user data and send weather updates via email.
+This is the backend repository for the Weather Backend project. It provides API endpoints to manage user data and send weather updates via email. This backend uses open weather api and users can register their emails and can get weather updates every 3 hours according to the user location
 
 ## Installation
 
